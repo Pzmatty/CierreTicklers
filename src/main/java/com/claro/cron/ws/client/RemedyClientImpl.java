@@ -28,7 +28,10 @@ import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.StatelessSession;
 import org.hibernate.Transaction;
+import org.hibernate.procedure.ProcedureCall;
 import org.hibernate.query.NativeQuery;
+import org.hibernate.result.Output;
+import org.hibernate.result.ResultSetOutput;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Qualifier;
@@ -37,6 +40,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 import com.claro.cron.ws.binding.Entry;
+import com.claro.cron.ws.binding.Field;
 import com.claro.cron.ws.binding.RESULTADO;
 import com.claro.cron.ws.binding.RESULTS;
 import com.claro.cron.ws.binding.RmdSelect;

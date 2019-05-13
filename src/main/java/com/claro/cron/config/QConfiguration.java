@@ -1,7 +1,9 @@
 package com.claro.cron.config;
 
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.PropertySource;
+import org.springframework.stereotype.Service;
 
 //import com.claro.cron.jpa.service.CronService;
 

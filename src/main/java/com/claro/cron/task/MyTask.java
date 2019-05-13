@@ -1,5 +1,10 @@
 package com.claro.cron.task;
 
+import java.net.MalformedURLException;
+
+import org.springframework.stereotype.Component;
+
+
 /*
  * cron4j - A pure Java cron-like scheduler
  * 

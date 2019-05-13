@@ -1,9 +1,13 @@
 package com.claro.cron.ws.binding;
 
 import java.util.ArrayList;
+import java.util.List;
 
 import javax.xml.bind.annotation.XmlElement;
+import javax.xml.bind.annotation.XmlElementWrapper;
 import javax.xml.bind.annotation.XmlRootElement;
+
+import com.claro.cron.ws.binding.*;
 
 
 //@XmlAccessorType (XmlAccessType.FIELD)
