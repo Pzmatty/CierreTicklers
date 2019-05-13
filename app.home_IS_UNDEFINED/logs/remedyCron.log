@@ -1,0 +1,9 @@
+Starting QuartzApplication on GGSXC42 with PID 6456 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+No active profile set, falling back to default profiles: default
+Started QuartzApplication in 2.464 seconds (JVM running for 3.276)
+log level info INFO
+:::: Barrer remedy ::::
+Fecha de consulta 30/04/2019
+Conexion a Remedy - Intento 1
+Consulta a Remedy trajo 3 incidentes

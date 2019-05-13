@@ -1,0 +1,516 @@
+18-octubre-04 15:55:47:787  INFO - Starting QuartzApplication on GGSXC42 with PID 6580 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-04 15:55:47:792 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-04 15:55:47:793  INFO - No active profile set, falling back to default profiles: default
+18-octubre-04 15:55:53:389  INFO - Started QuartzApplication in 6.34 seconds (JVM running for 9.854)
+18-octubre-04 15:57:18:406  INFO - procesando resultado.....
+18-octubre-04 16:54:54:393  INFO - ::::: Consulta no devuelve incidentes :::::
+18-octubre-05 10:35:49:591  INFO - Starting QuartzApplication on GGSXC42 with PID 2100 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-05 10:35:49:596 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-05 10:35:49:597  INFO - No active profile set, falling back to default profiles: default
+18-octubre-05 10:35:52:399  INFO - Started QuartzApplication in 3.054 seconds (JVM running for 3.899)
+18-octubre-05 10:36:12:621 ERROR - Error RMDSELECT: Read timed out
+18-octubre-05 10:36:21:821  INFO - Starting QuartzApplication on GGSXC42 with PID 6904 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-05 10:36:21:826 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-05 10:36:21:827  INFO - No active profile set, falling back to default profiles: default
+18-octubre-05 10:36:24:594  INFO - Started QuartzApplication in 3.02 seconds (JVM running for 3.811)
+18-octubre-05 10:36:35:272  INFO - procesando resultado.....
+18-octubre-05 10:38:23:258  INFO - procesando resultado.....
+18-octubre-05 10:52:38:136  INFO - Starting QuartzApplication on GGSXC42 with PID 12636 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-05 10:52:38:145 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-05 10:52:38:146  INFO - No active profile set, falling back to default profiles: default
+18-octubre-05 10:52:40:915  INFO - Started QuartzApplication in 3.03 seconds (JVM running for 3.745)
+18-octubre-05 10:52:57:741 ERROR - Error RMDSELECT: Read timed out
+18-octubre-05 10:53:06:558  INFO - Starting QuartzApplication on GGSXC42 with PID 1744 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-05 10:53:06:564 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-05 10:53:06:565  INFO - No active profile set, falling back to default profiles: default
+18-octubre-05 10:53:09:296  INFO - Started QuartzApplication in 2.983 seconds (JVM running for 3.685)
+18-octubre-05 10:53:22:315  INFO - procesando resultado.....
+18-octubre-05 11:14:23:837  INFO - ::: Hay matcheo con ticklers soling ::::!!!
+18-octubre-05 11:18:52:914  INFO - Starting QuartzApplication on GGSXC42 with PID 5000 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-05 11:18:52:919 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-05 11:18:52:919  INFO - No active profile set, falling back to default profiles: default
+18-octubre-05 11:18:55:726  INFO - Started QuartzApplication in 3.061 seconds (JVM running for 3.86)
+18-octubre-05 11:19:32:140 ERROR - Error RMDSELECT: Read timed out
+18-octubre-05 11:19:39:153  INFO - Starting QuartzApplication on GGSXC42 with PID 13468 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-05 11:19:39:162 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-05 11:19:39:162  INFO - No active profile set, falling back to default profiles: default
+18-octubre-05 11:19:41:967  INFO - Started QuartzApplication in 3.061 seconds (JVM running for 3.785)
+18-octubre-05 11:19:51:325  INFO - procesando resultado.....
+18-octubre-05 11:20:02:111  INFO - ::: Hay matcheo con ticklers soling ::::!!!
+18-octubre-05 11:20:15:037 ERROR - Error - Matcheo tickler-ticket java.math.BigDecimal cannot be cast to java.lang.String
+18-octubre-05 11:23:24:289  INFO - Starting QuartzApplication on GGSXC42 with PID 9096 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-05 11:23:24:294 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-05 11:23:24:295  INFO - No active profile set, falling back to default profiles: default
+18-octubre-05 11:23:27:158  INFO - Started QuartzApplication in 3.126 seconds (JVM running for 3.866)
+18-octubre-05 11:23:38:125  INFO - procesando resultado.....
+18-octubre-05 11:23:51:740  INFO - ::: Hay matcheo con ticklers soling ::::!!!
+18-octubre-05 11:36:43:103  INFO - Starting QuartzApplication on GGSXC42 with PID 12136 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-05 11:36:43:109 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-05 11:36:43:110  INFO - No active profile set, falling back to default profiles: default
+18-octubre-05 11:36:46:014  INFO - Started QuartzApplication in 3.158 seconds (JVM running for 3.915)
+18-octubre-05 11:36:56:926  INFO - procesando resultado.....
+18-octubre-05 11:37:02:419  INFO - ::: Hay matcheo con ticklers soling ::::!!!
+18-octubre-05 11:37:15:966  INFO - ::: Respuesta insercion tickler hijo: E-INS
+18-octubre-05 15:25:23:176  INFO - Starting QuartzApplication on GGSXC42 with PID 6556 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-05 15:25:23:182 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-05 15:25:23:183  INFO - No active profile set, falling back to default profiles: default
+18-octubre-05 15:25:26:123  INFO - Started QuartzApplication in 3.206 seconds (JVM running for 3.995)
+18-octubre-05 15:25:50:696  INFO - procesando resultado.....
+18-octubre-05 15:26:01:725  INFO - ::: Hay matcheo con ticklers soling ::::!!!
+18-octubre-05 15:26:07:064  INFO - ::: Respuesta insercion tickler hijo: E-INS
+18-octubre-08 08:33:38:900  INFO - Starting QuartzApplication on GGSXC42 with PID 4508 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-08 08:33:38:905 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-08 08:33:38:905  INFO - No active profile set, falling back to default profiles: default
+18-octubre-08 08:33:42:616  INFO - Started QuartzApplication in 4.215 seconds (JVM running for 6.299)
+18-octubre-08 08:34:01:365 ERROR - Error RMDSELECT: Read timed out
+18-octubre-08 08:34:12:875  INFO - Starting QuartzApplication on GGSXC42 with PID 12108 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-08 08:34:12:884 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-08 08:34:12:885  INFO - No active profile set, falling back to default profiles: default
+18-octubre-08 08:34:15:615  INFO - Started QuartzApplication in 2.984 seconds (JVM running for 3.739)
+18-octubre-08 08:34:37:155  INFO - procesando resultado.....
+18-octubre-08 08:34:59:755  INFO - ::: Hay matcheo con ticklers soling ::::!!!
+18-octubre-08 08:35:25:797  INFO - ::: Respuesta insercion tickler hijo: E-INS
+18-octubre-08 08:36:24:753  INFO - Starting QuartzApplication on GGSXC42 with PID 13864 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-08 08:36:24:758 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-08 08:36:24:759  INFO - No active profile set, falling back to default profiles: default
+18-octubre-08 08:36:27:537  INFO - Started QuartzApplication in 3.027 seconds (JVM running for 3.809)
+18-octubre-08 08:36:42:755  INFO - procesando resultado.....
+18-octubre-08 08:36:47:968  INFO - ::: Hay matcheo con ticklers soling ::::!!!
+18-octubre-08 08:38:32:453  INFO - ::: Respuesta insercion tickler hijo: E-INS
+18-octubre-08 08:40:07:991  INFO - Starting QuartzApplication on GGSXC42 with PID 13804 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-08 08:40:07:996 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-08 08:40:07:997  INFO - No active profile set, falling back to default profiles: default
+18-octubre-08 08:40:10:759  INFO - Started QuartzApplication in 3.011 seconds (JVM running for 3.722)
+18-octubre-08 08:40:20:563  INFO - procesando resultado.....
+18-octubre-08 08:40:26:928  INFO - ::: Hay matcheo con ticklers soling ::::!!!
+18-octubre-08 08:40:46:246  INFO - ::: Respuesta insercion tickler hijo: E-INS
+18-octubre-11 08:07:27:595  INFO - Starting QuartzApplication on GGSXC42 with PID 9492 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-11 08:07:27:630 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-11 08:07:27:631  INFO - No active profile set, falling back to default profiles: default
+18-octubre-11 08:07:35:169  INFO - Started QuartzApplication in 8.282 seconds (JVM running for 15.773)
+18-octubre-11 08:07:55:116 ERROR - Error RMDSELECT: Read timed out
+18-octubre-11 08:08:08:372  INFO - Starting QuartzApplication on GGSXC42 with PID 33524 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-11 08:08:08:377 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-11 08:08:08:377  INFO - No active profile set, falling back to default profiles: default
+18-octubre-11 08:08:11:198  INFO - Started QuartzApplication in 3.078 seconds (JVM running for 3.851)
+18-octubre-11 08:09:07:418 ERROR - Error RMDSELECT: Read timed out
+18-octubre-11 08:09:29:837  INFO - Starting QuartzApplication on GGSXC42 with PID 20732 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-11 08:09:29:842 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-11 08:09:29:842  INFO - No active profile set, falling back to default profiles: default
+18-octubre-11 08:09:32:655  INFO - Started QuartzApplication in 3.07 seconds (JVM running for 3.868)
+18-octubre-11 08:09:38:097  INFO - procesando resultado.....
+18-octubre-11 08:09:53:652  INFO - ::: Hay matcheo con ticklers soling ::::!!!
+18-octubre-11 08:10:12:542  INFO - ::: Respuesta insercion tickler hijo: OK
+18-octubre-11 08:10:14:750  INFO - ::: Procesando resultado update.....
+18-octubre-11 08:10:28:367  INFO - :::: Resultado borrar soling padre: 0
+18-octubre-11 08:52:28:888  INFO - Starting QuartzApplication on GGSXC42 with PID 15056 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-11 08:52:28:895 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-11 08:52:28:895  INFO - No active profile set, falling back to default profiles: default
+18-octubre-11 08:52:31:675  INFO - Started QuartzApplication in 3.044 seconds (JVM running for 3.884)
+18-octubre-11 08:52:44:977 ERROR - Error RMDSELECT: Read timed out
+18-octubre-11 08:52:51:780  INFO - Starting QuartzApplication on GGSXC42 with PID 32192 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-11 08:52:51:785 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-11 08:52:51:786  INFO - No active profile set, falling back to default profiles: default
+18-octubre-11 08:52:54:597  INFO - Started QuartzApplication in 3.065 seconds (JVM running for 3.895)
+18-octubre-11 08:53:06:946  INFO - procesando resultado.....
+18-octubre-11 08:53:13:777  INFO - ::: Hay matcheo con ticklers soling ::::!!!
+18-octubre-11 08:53:37:445  INFO - ::: Respuesta insercion tickler hijo: E-INS
+18-octubre-11 09:13:06:235  INFO - Starting QuartzApplication on GGSXC42 with PID 19536 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-11 09:13:06:241 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-11 09:13:06:242  INFO - No active profile set, falling back to default profiles: default
+18-octubre-11 09:13:09:071  INFO - Started QuartzApplication in 3.088 seconds (JVM running for 3.829)
+18-octubre-11 09:13:22:022 ERROR - Error RMDSELECT: Read timed out
+18-octubre-11 09:13:53:253  INFO - Starting QuartzApplication on GGSXC42 with PID 30888 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-11 09:13:53:259 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-11 09:13:53:260  INFO - No active profile set, falling back to default profiles: default
+18-octubre-11 09:13:56:074  INFO - Started QuartzApplication in 3.071 seconds (JVM running for 3.891)
+18-octubre-11 09:14:01:300  INFO - procesando resultado.....
+18-octubre-11 09:14:06:495  INFO - ::: Hay matcheo con ticklers soling ::::!!!
+18-octubre-11 09:14:14:869  INFO - ::: Respuesta insercion tickler hijo: OK
+18-octubre-11 09:14:22:869  INFO - ::: Procesando resultado update.....
+18-octubre-11 09:15:24:303  INFO - Starting QuartzApplication on GGSXC42 with PID 29264 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-11 09:15:24:308 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-11 09:15:24:309  INFO - No active profile set, falling back to default profiles: default
+18-octubre-11 09:15:27:158  INFO - Started QuartzApplication in 3.101 seconds (JVM running for 3.905)
+18-octubre-11 09:15:46:101 ERROR - Error RMDSELECT: Read timed out
+18-octubre-11 09:20:47:595  INFO - Starting QuartzApplication on GGSXC42 with PID 20728 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-11 09:20:47:601 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-11 09:20:47:602  INFO - No active profile set, falling back to default profiles: default
+18-octubre-11 09:20:50:374  INFO - Started QuartzApplication in 3.023 seconds (JVM running for 3.79)
+18-octubre-11 09:21:04:278 ERROR - Error IO RMDSELECT: Read timed out
+18-octubre-11 09:21:04:279  INFO - Reintento nro. 2
+18-octubre-11 09:21:14:100  INFO - procesando resultado.....
+18-octubre-11 09:21:24:944  INFO - ::: Hay matcheo con ticklers soling ::::!!!
+18-octubre-11 09:21:29:219  INFO - ::: Respuesta insercion tickler hijo: E-INS
+18-octubre-11 09:22:16:749  INFO - Starting QuartzApplication on GGSXC42 with PID 31720 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-11 09:22:16:754 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-11 09:22:16:755  INFO - No active profile set, falling back to default profiles: default
+18-octubre-11 09:22:19:604  INFO - Started QuartzApplication in 3.109 seconds (JVM running for 3.919)
+18-octubre-11 09:22:30:772  INFO - procesando resultado.....
+18-octubre-11 09:22:37:874  INFO - ::: Hay matcheo con ticklers soling ::::!!!
+18-octubre-11 09:22:41:444  INFO - ::: Respuesta insercion tickler hijo: OK
+18-octubre-11 09:22:49:013  INFO - ::: Procesando resultado update.....
+18-octubre-11 09:27:21:661  INFO - ::: Hay matcheo con ticklers soling ::::!!!
+18-octubre-11 09:27:49:460  INFO - ::: Respuesta insercion tickler hijo: OK
+18-octubre-11 09:29:15:637  INFO - ::: Procesando resultado update.....
+18-octubre-11 09:34:48:848  INFO - Starting QuartzApplication on GGSXC42 with PID 18584 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-11 09:34:48:857 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-11 09:34:48:857  INFO - No active profile set, falling back to default profiles: default
+18-octubre-11 09:34:51:709  INFO - Started QuartzApplication in 3.108 seconds (JVM running for 3.93)
+18-octubre-11 09:35:06:892 ERROR - Error IO RMDSELECT: Read timed out
+18-octubre-11 09:35:06:893  INFO - Reintento nro. 2
+18-octubre-11 09:35:13:813  INFO - procesando resultado.....
+18-octubre-11 09:35:21:041  INFO - ::: Hay matcheo con ticklers soling ::::!!!
+18-octubre-11 09:35:25:412  INFO - ::: Respuesta insercion tickler hijo: OK
+18-octubre-11 09:35:28:050  INFO - ::: Procesando resultado update.....
+18-octubre-11 09:36:26:249  INFO - ::: Hay matcheo con ticklers soling ::::!!!
+18-octubre-11 09:36:28:981  INFO - ::: Respuesta insercion tickler hijo: E-INS
+18-octubre-11 09:36:45:120  INFO - Starting QuartzApplication on GGSXC42 with PID 33368 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-11 09:36:45:126 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-11 09:36:45:127  INFO - No active profile set, falling back to default profiles: default
+18-octubre-11 09:36:47:942  INFO - Started QuartzApplication in 3.071 seconds (JVM running for 3.814)
+18-octubre-11 09:37:02:086 ERROR - Error IO RMDSELECT: Read timed out
+18-octubre-11 09:37:02:087  INFO - Reintento nro. 2
+18-octubre-11 09:37:05:973  INFO - procesando resultado.....
+18-octubre-11 09:37:08:338  INFO - ::: Hay matcheo con ticklers soling ::::!!!
+18-octubre-11 09:37:11:156  INFO - ::: Respuesta insercion tickler hijo: E-INS
+18-octubre-11 09:37:49:011  INFO - Starting QuartzApplication on GGSXC42 with PID 28576 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-11 09:37:49:016 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-11 09:37:49:017  INFO - No active profile set, falling back to default profiles: default
+18-octubre-11 09:37:51:822  INFO - Started QuartzApplication in 3.06 seconds (JVM running for 3.867)
+18-octubre-11 09:38:01:364  INFO - procesando resultado.....
+18-octubre-11 09:38:03:238  INFO - ::: Hay matcheo con ticklers soling ::::!!!
+18-octubre-11 09:38:04:884  INFO - ::: Respuesta insercion tickler hijo: OK
+18-octubre-11 09:38:06:707  INFO - ::: Procesando resultado update.....
+18-octubre-11 09:43:18:934  INFO - Starting QuartzApplication on GGSXC42 with PID 10636 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-11 09:43:18:943 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-11 09:43:18:943  INFO - No active profile set, falling back to default profiles: default
+18-octubre-11 09:43:21:763  INFO - Started QuartzApplication in 3.079 seconds (JVM running for 3.901)
+18-octubre-11 09:43:36:069 ERROR - Error IO RMDSELECT: Read timed out
+18-octubre-11 09:43:36:070  INFO - Reintento nro. 2
+18-octubre-11 09:43:44:485  INFO - procesando resultado.....
+18-octubre-11 09:43:47:568  INFO - ::: Hay matcheo con ticklers soling ::::!!!
+18-octubre-11 09:43:50:581  INFO - ::: Respuesta insercion tickler hijo: OK
+18-octubre-11 09:43:52:718  INFO - ::: Procesando resultado update.....
+18-octubre-11 09:44:02:247  INFO - Se actualiza el tickler soling con estado E
+18-octubre-11 09:51:28:246  INFO - Starting QuartzApplication on GGSXC42 with PID 27052 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-11 09:51:28:250 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-11 09:51:28:251  INFO - No active profile set, falling back to default profiles: default
+18-octubre-11 09:51:31:079  INFO - Started QuartzApplication in 3.086 seconds (JVM running for 3.897)
+18-octubre-11 09:51:46:317 ERROR - Error IO RMDSELECT: Read timed out
+18-octubre-11 09:51:46:318  INFO - Reintento nro. 2
+18-octubre-11 09:51:52:341  INFO - procesando resultado.....
+18-octubre-11 09:51:55:910  INFO - ::: Hay matcheo con ticklers soling ::::!!!
+18-octubre-11 09:51:59:477  INFO - ::: Respuesta insercion tickler hijo: OK
+18-octubre-11 09:54:42:094  INFO - Starting QuartzApplication on GGSXC42 with PID 28864 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-11 09:54:42:099 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-11 09:54:42:099  INFO - No active profile set, falling back to default profiles: default
+18-octubre-11 09:54:44:910  INFO - Started QuartzApplication in 3.069 seconds (JVM running for 3.804)
+18-octubre-11 09:54:59:208 ERROR - Error IO RMDSELECT: Read timed out
+18-octubre-11 09:54:59:209  INFO - Reintento nro. 2
+18-octubre-11 09:55:07:013  INFO - procesando resultado.....
+18-octubre-11 09:55:10:264  INFO - ::: Hay matcheo con ticklers soling ::::!!!
+18-octubre-11 09:55:12:789  INFO - ::: Respuesta insercion tickler hijo: OK
+18-octubre-11 09:57:15:564  INFO - Starting QuartzApplication on GGSXC42 with PID 5228 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-11 09:57:15:568 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-11 09:57:15:569  INFO - No active profile set, falling back to default profiles: default
+18-octubre-11 09:57:18:334  INFO - Started QuartzApplication in 3.024 seconds (JVM running for 3.821)
+18-octubre-11 09:57:33:303 ERROR - Error IO RMDSELECT: Read timed out
+18-octubre-11 09:57:33:304  INFO - Reintento nro. 2
+18-octubre-11 09:57:42:166  INFO - procesando resultado.....
+18-octubre-11 09:57:45:497  INFO - ::: Hay matcheo con ticklers soling ::::!!!
+18-octubre-11 09:57:46:997  INFO - ::: Respuesta insercion tickler hijo: OK
+18-octubre-11 10:01:20:052  INFO - Starting QuartzApplication on GGSXC42 with PID 28848 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-11 10:01:20:058 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-11 10:01:20:059  INFO - No active profile set, falling back to default profiles: default
+18-octubre-11 10:01:22:895  INFO - Started QuartzApplication in 3.092 seconds (JVM running for 3.894)
+18-octubre-11 10:01:38:556 ERROR - Error IO RMDSELECT: Read timed out
+18-octubre-11 10:01:38:557  INFO - Reintento nro. 2
+18-octubre-11 10:01:44:822  INFO - procesando resultado.....
+18-octubre-11 10:01:47:493  INFO - ::: Hay matcheo con ticklers soling ::::!!!
+18-octubre-11 10:01:49:846  INFO - ::: Respuesta insercion tickler hijo: E-INS
+18-octubre-11 10:59:48:733  INFO - Starting QuartzApplication on GGSXC42 with PID 33160 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-11 10:59:48:738 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-11 10:59:48:739  INFO - No active profile set, falling back to default profiles: default
+18-octubre-11 10:59:51:638  INFO - Started QuartzApplication in 3.17 seconds (JVM running for 3.977)
+18-octubre-11 11:00:07:984 ERROR - Error IO RMDSELECT: Read timed out
+18-octubre-11 11:00:07:985  INFO - Reintento nro. 2
+18-octubre-11 11:00:16:056 ERROR - Error IO RMDSELECT: Read timed out
+18-octubre-11 11:00:16:056  INFO - Reintento nro. 2
+18-octubre-11 11:00:32:264  INFO - procesando resultado.....
+18-octubre-11 11:00:37:596  INFO - ::: Hay matcheo con ticklers soling ::::!!!
+18-octubre-11 11:00:42:952  INFO - ::: Respuesta insercion tickler hijo: OK
+18-octubre-11 11:01:02:154  INFO - ::: Procesando resultado update.....
+18-octubre-11 11:01:04:523  INFO - Resultado de update en remedy: OK
+18-octubre-11 11:01:10:476  INFO - :::: Resultado borrar soling padre:2155943768, es: 0
+18-octubre-11 11:18:03:209  INFO - Starting QuartzApplication on GGSXC42 with PID 34164 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-11 11:18:03:214 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-11 11:18:03:214  INFO - No active profile set, falling back to default profiles: default
+18-octubre-11 11:18:06:101  INFO - Started QuartzApplication in 3.147 seconds (JVM running for 3.908)
+18-octubre-11 11:18:20:922 ERROR - Error IO RMDSELECT: Read timed out
+18-octubre-11 11:18:20:923  INFO - Reintento nro. 2
+18-octubre-11 11:18:28:602  INFO - procesando resultado.....
+18-octubre-11 11:18:31:746  INFO - ::: Hay matcheo con ticklers soling ::::!!!
+18-octubre-11 11:19:23:862  INFO - Starting QuartzApplication on GGSXC42 with PID 19708 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-11 11:19:23:867 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-11 11:19:23:868  INFO - No active profile set, falling back to default profiles: default
+18-octubre-11 11:19:26:701  INFO - Started QuartzApplication in 3.092 seconds (JVM running for 3.829)
+18-octubre-11 11:19:37:530  INFO - procesando resultado.....
+18-octubre-11 11:19:40:108  INFO - ::: Hay matcheo con ticklers soling ::::!!!
+18-octubre-11 11:20:01:681  INFO - Starting QuartzApplication on GGSXC42 with PID 19856 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-11 11:20:01:685 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-11 11:20:01:686  INFO - No active profile set, falling back to default profiles: default
+18-octubre-11 11:20:04:567  INFO - Started QuartzApplication in 3.141 seconds (JVM running for 3.907)
+18-octubre-11 11:20:20:873 ERROR - Error IO RMDSELECT: Read timed out
+18-octubre-11 11:20:20:874  INFO - Reintento nro. 2
+18-octubre-11 11:20:28:218  INFO - procesando resultado.....
+18-octubre-11 11:20:38:458  INFO - ::: Hay matcheo con ticklers soling ::::!!!
+18-octubre-11 11:21:29:140  INFO - Starting QuartzApplication on GGSXC42 with PID 18868 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-11 11:21:29:145 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-11 11:21:29:146  INFO - No active profile set, falling back to default profiles: default
+18-octubre-11 11:21:31:982  INFO - Started QuartzApplication in 3.097 seconds (JVM running for 3.903)
+18-octubre-11 11:22:09:148 ERROR - Error IO RMDSELECT: Read timed out
+18-octubre-11 11:22:09:149  INFO - Reintento nro. 2
+18-octubre-11 11:22:12:490  INFO - procesando resultado.....
+18-octubre-11 11:22:16:368  INFO - ::: Hay matcheo con ticklers soling ::::!!!
+18-octubre-11 11:23:13:596  INFO - Starting QuartzApplication on GGSXC42 with PID 2368 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-11 11:23:13:600 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-11 11:23:13:601  INFO - No active profile set, falling back to default profiles: default
+18-octubre-11 11:23:16:335  INFO - Started QuartzApplication in 2.975 seconds (JVM running for 3.939)
+18-octubre-11 11:23:22:634  INFO - procesando resultado.....
+18-octubre-11 11:25:06:011  INFO - ::: Hay matcheo con ticklers soling ::::!!!
+18-octubre-11 11:26:39:153  INFO - Starting QuartzApplication on GGSXC42 with PID 19412 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-11 11:26:39:157 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-11 11:26:39:158  INFO - No active profile set, falling back to default profiles: default
+18-octubre-11 11:26:42:012  INFO - Started QuartzApplication in 3.1 seconds (JVM running for 3.816)
+18-octubre-11 11:26:51:013 ERROR - Error IO RMDSELECT: Read timed out
+18-octubre-11 11:26:51:013  INFO - Reintento nro. 2
+18-octubre-11 11:26:58:969 ERROR - Error IO RMDSELECT: Read timed out
+18-octubre-11 11:26:58:970  INFO - Reintento nro. 2
+18-octubre-11 11:27:05:658  INFO - procesando resultado.....
+18-octubre-11 11:27:18:459  INFO - ::: Hay matcheo con ticklers soling ::::!!!
+18-octubre-11 11:28:36:241  INFO - Starting QuartzApplication on GGSXC42 with PID 30352 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-11 11:28:36:243 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-11 11:28:36:244  INFO - No active profile set, falling back to default profiles: default
+18-octubre-11 11:28:38:423  INFO - Started QuartzApplication in 2.381 seconds (JVM running for 3.038)
+18-octubre-11 11:28:45:926 ERROR - Error IO RMDSELECT: Read timed out
+18-octubre-11 11:28:45:927  INFO - Reintento nro. 2
+18-octubre-11 11:28:53:129 ERROR - Error IO RMDSELECT: Read timed out
+18-octubre-11 11:28:53:129  INFO - Reintento nro. 2
+18-octubre-11 11:28:55:091  INFO - procesando resultado.....
+18-octubre-11 11:28:55:194  INFO - ::: buscar matcheo con ticklers soling para incidente: PAR
+18-octubre-11 11:34:52:875  INFO - Starting QuartzApplication on GGSXC42 with PID 16656 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-11 11:34:52:881 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-11 11:34:52:881  INFO - No active profile set, falling back to default profiles: default
+18-octubre-11 11:34:55:669  INFO - Started QuartzApplication in 3.039 seconds (JVM running for 3.772)
+18-octubre-11 11:35:08:969 ERROR - Error IO RMDSELECT: Read timed out
+18-octubre-11 11:35:08:969  INFO - Reintento nro. 2
+18-octubre-11 11:35:16:171 ERROR - Error IO RMDSELECT: Read timed out
+18-octubre-11 11:35:16:171  INFO - Reintento nro. 2
+18-octubre-11 11:35:18:175  INFO - procesando resultado.....
+18-octubre-11 11:39:19:933  INFO - Starting QuartzApplication on GGSXC42 with PID 30984 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-11 11:39:19:939 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-11 11:39:19:939  INFO - No active profile set, falling back to default profiles: default
+18-octubre-11 11:39:22:666  INFO - Started QuartzApplication in 2.971 seconds (JVM running for 3.761)
+18-octubre-11 11:39:33:224 ERROR - Error IO RMDSELECT: Read timed out
+18-octubre-11 11:39:33:225  INFO - Reintento nro. 2
+18-octubre-11 11:39:35:797  INFO - procesando resultado.....
+18-octubre-11 11:40:23:610  INFO - ::: buscar matcheo con ticklers soling para incidente: PAR
+18-octubre-11 11:40:23:610  INFO - No hubo matcheo con tickler soling
+18-octubre-11 11:40:36:198  INFO - Starting QuartzApplication on GGSXC42 with PID 24588 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-11 11:40:36:202 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-11 11:40:36:203  INFO - No active profile set, falling back to default profiles: default
+18-octubre-11 11:40:38:847  INFO - Started QuartzApplication in 2.887 seconds (JVM running for 3.609)
+18-octubre-11 11:40:41:079  INFO - procesando resultado.....
+18-octubre-11 12:03:04:491  INFO - Starting QuartzApplication on GGSXC42 with PID 34640 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-11 12:03:04:496 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-11 12:03:04:497  INFO - No active profile set, falling back to default profiles: default
+18-octubre-11 12:03:07:259  INFO - Started QuartzApplication in 3.013 seconds (JVM running for 3.745)
+18-octubre-11 12:03:17:792 ERROR - Error IO RMDSELECT: Read timed out
+18-octubre-11 12:03:17:793  INFO - Reintento nro. 2
+18-octubre-11 12:03:20:047  INFO - procesando resultado.....
+18-octubre-11 12:03:46:613  INFO - ::: buscar matcheo con ticklers soling para incidente: PAR
+18-octubre-11 12:03:46:613  INFO - No hubo matcheo con tickler soling
+18-octubre-11 12:03:54:524  INFO - ::: buscar matcheo con ticklers soling para incidente: INC000008730906
+18-octubre-11 12:04:46:576  INFO - ::: buscar matcheo con ticklers soling para incidente: PAR
+18-octubre-11 12:04:46:577  INFO - No hubo matcheo con tickler soling
+18-octubre-11 12:04:49:359  INFO - ::: buscar matcheo con ticklers soling para incidente: INC000008730906
+18-octubre-11 12:04:57:932 ERROR - Error - Matcheo tickler-ticket 3
+18-octubre-11 12:11:05:393  INFO - Starting QuartzApplication on GGSXC42 with PID 25260 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-11 12:11:05:398 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-11 12:11:05:399  INFO - No active profile set, falling back to default profiles: default
+18-octubre-11 12:11:08:098  INFO - Started QuartzApplication in 2.95 seconds (JVM running for 3.755)
+18-octubre-11 12:11:29:342  INFO - ::: buscar matcheo con ticklers soling para incidente: INC000008730906
+18-octubre-11 12:13:04:912  INFO - Starting QuartzApplication on GGSXC42 with PID 16440 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-11 12:13:04:916 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-11 12:13:04:917  INFO - No active profile set, falling back to default profiles: default
+18-octubre-11 12:13:07:635  INFO - Started QuartzApplication in 2.962 seconds (JVM running for 3.686)
+18-octubre-11 12:13:17:659  INFO - ::: buscar matcheo con ticklers soling para incidente: INC000008730906
+18-octubre-11 12:15:11:951  INFO - ::: buscar matcheo con ticklers soling para incidente: INC000008730906
+18-octubre-11 12:17:32:209  INFO - ::: buscar matcheo con ticklers soling para incidente: INC000008730906
+18-octubre-11 12:18:12:382  INFO - ::: Procesando resultado update.....
+18-octubre-11 12:18:29:741  INFO - No se pudo actualizar ticket a estado PAR
+18-octubre-11 12:18:29:741  INFO - No hubo matcheo con tickler soling
+18-octubre-12 16:23:43:848  INFO - Starting QuartzApplication on GGSXC42 with PID 12392 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-12 16:23:43:852 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-12 16:23:43:853  INFO - No active profile set, falling back to default profiles: default
+18-octubre-12 16:23:46:541  INFO - Started QuartzApplication in 2.925 seconds (JVM running for 4.672)
+18-octubre-12 16:24:03:628  INFO - ::: buscar matcheo con ticklers soling para incidente: INC000008730906
+18-octubre-12 16:24:30:814  INFO - ::: Procesando resultado update.....
+18-octubre-12 16:40:55:627  INFO - Starting QuartzApplication on GGSXC42 with PID 17440 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-12 16:40:55:631 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-12 16:40:55:632  INFO - No active profile set, falling back to default profiles: default
+18-octubre-12 16:40:58:333  INFO - Started QuartzApplication in 2.947 seconds (JVM running for 3.762)
+18-octubre-12 16:41:07:570  INFO - ::: buscar matcheo con ticklers soling para incidente: INC000008731166
+18-octubre-12 16:41:20:159  INFO - ::: Procesando resultado update.....
+18-octubre-12 16:41:30:366  INFO - No se pudo actualizar ticket a estado PAR
+18-octubre-12 16:41:30:366  INFO - No hubo matcheo con tickler soling
+18-octubre-12 16:43:29:804  INFO - Starting QuartzApplication on GGSXC42 with PID 26044 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-12 16:43:29:809 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-12 16:43:29:809  INFO - No active profile set, falling back to default profiles: default
+18-octubre-12 16:43:32:541  INFO - Started QuartzApplication in 2.978 seconds (JVM running for 3.783)
+18-octubre-12 16:46:51:865  INFO - Starting QuartzApplication on GGSXC42 with PID 8392 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-12 16:46:51:868 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-12 16:46:51:869  INFO - No active profile set, falling back to default profiles: default
+18-octubre-12 16:46:56:563  INFO - Starting QuartzApplication on GGSXC42 with PID 30424 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-12 16:46:56:569 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-12 16:46:56:569  INFO - No active profile set, falling back to default profiles: default
+18-octubre-12 16:46:59:225  INFO - Started QuartzApplication in 2.896 seconds (JVM running for 3.61)
+18-octubre-12 16:47:21:678  INFO - ::: Procesando resultado update.....
+18-octubre-12 16:47:32:384  INFO - Resultado de update en remedy: OK
+18-octubre-12 16:50:32:890  INFO - Starting QuartzApplication on GGSXC42 with PID 17912 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-12 16:50:32:895 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-12 16:50:32:896  INFO - No active profile set, falling back to default profiles: default
+18-octubre-12 16:50:35:568  INFO - Started QuartzApplication in 2.92 seconds (JVM running for 3.618)
+18-octubre-12 16:50:46:111 ERROR - Error IO RMDSELECT: Read timed out
+18-octubre-12 16:50:46:112  INFO - Reintento nro. 2
+18-octubre-12 16:50:56:313 ERROR - Error IO RMDSELECT: Read timed out
+18-octubre-12 16:50:56:314  INFO - Reintento nro. 2
+18-octubre-12 16:51:03:192  INFO - procesando resultado.....
+18-octubre-12 16:54:03:981  INFO - Starting QuartzApplication on GGSXC42 with PID 32992 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-12 16:54:03:986 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-12 16:54:03:986  INFO - No active profile set, falling back to default profiles: default
+18-octubre-12 16:54:06:664  INFO - Started QuartzApplication in 2.923 seconds (JVM running for 3.708)
+18-octubre-12 16:54:06:786  INFO - Intento 1
+18-octubre-12 16:54:17:195 ERROR - Error IO RMDSELECT: Read timed out
+18-octubre-12 16:54:17:196  INFO - Reintento nro. 2
+18-octubre-12 16:54:17:198  INFO - Intento 2
+18-octubre-12 16:55:49:439  INFO - Starting QuartzApplication on GGSXC42 with PID 14316 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-12 16:55:49:445 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-12 16:55:49:446  INFO - No active profile set, falling back to default profiles: default
+18-octubre-12 16:55:52:142  INFO - Started QuartzApplication in 2.943 seconds (JVM running for 3.672)
+18-octubre-12 16:55:52:266  INFO - Conexion a Remedy - Intento 1
+18-octubre-12 16:56:22:383  INFO - ::: buscar matcheo con ticklers soling para incidente: PAR
+18-octubre-12 16:56:29:777  INFO - ::: buscar matcheo con ticklers soling para incidente: INC000008730906
+18-octubre-12 16:56:33:105  INFO - ::: buscar matcheo con ticklers soling para incidente: INC000008731166
+18-octubre-12 16:57:36:482  INFO - ::: Procesando resultado update.....
+18-octubre-12 16:57:36:483  INFO - Resultado de update en remedy: OK
+18-octubre-12 16:57:39:017  INFO - :::: Resultado borrar soling padre:2155943768, es: 1
+18-octubre-16 10:11:27:826  INFO - Starting QuartzApplication on GGSXC42 with PID 13952 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-16 10:11:27:831 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-16 10:11:27:832  INFO - No active profile set, falling back to default profiles: default
+18-octubre-16 10:12:17:657  INFO - Starting QuartzApplication on GGSXC42 with PID 9352 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-16 10:12:17:664 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-16 10:12:17:664  INFO - No active profile set, falling back to default profiles: default
+18-octubre-16 10:13:05:296  INFO - Starting QuartzApplication on GGSXC42 with PID 18420 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-16 10:13:05:302 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-16 10:13:05:302  INFO - No active profile set, falling back to default profiles: default
+18-octubre-16 10:14:46:923  INFO - Starting QuartzApplication on GGSXC42 with PID 1112 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-16 10:14:46:930 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-16 10:14:46:930  INFO - No active profile set, falling back to default profiles: default
+18-octubre-16 10:16:09:716  INFO - Starting QuartzApplication on GGSXC42 with PID 34356 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-16 10:16:09:723 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-16 10:16:09:724  INFO - No active profile set, falling back to default profiles: default
+18-octubre-16 10:17:32:198  INFO - Starting QuartzApplication on GGSXC42 with PID 18304 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-16 10:17:32:203 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-16 10:17:32:204  INFO - No active profile set, falling back to default profiles: default
+18-octubre-16 10:17:36:935  INFO - Started QuartzApplication in 4.983 seconds (JVM running for 5.707)
+18-octubre-16 10:17:43:602  INFO - Conexion a Remedy - Intento 1
+18-octubre-16 10:17:52:042 ERROR - Error IO RMDSELECT: Read timed out
+18-octubre-16 10:17:55:982  INFO - Conexion a Remedy - Intento 2
+18-octubre-16 10:18:03:185 ERROR - Error IO RMDSELECT: Read timed out
+18-octubre-16 10:18:05:791  INFO - Conexion a Remedy - Intento 3
+18-octubre-16 10:18:12:992 ERROR - Error IO RMDSELECT: Read timed out
+18-octubre-16 10:19:02:528  INFO - Starting QuartzApplication on GGSXC42 with PID 24100 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-16 10:19:02:531 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-16 10:19:02:531  INFO - No active profile set, falling back to default profiles: default
+18-octubre-16 10:19:04:817  INFO - Started QuartzApplication in 2.506 seconds (JVM running for 3.157)
+18-octubre-16 10:19:04:928  INFO - Conexion a Remedy - Intento 1
+18-octubre-16 10:19:12:336 ERROR - Error IO RMDSELECT: Read timed out
+18-octubre-16 10:19:12:347  INFO - Conexion a Remedy - Intento 2
+18-octubre-16 10:19:19:546 ERROR - Error IO RMDSELECT: Read timed out
+18-octubre-16 10:19:19:556  INFO - Conexion a Remedy - Intento 3
+18-octubre-16 10:19:26:754 ERROR - Error IO RMDSELECT: Read timed out
+18-octubre-16 10:20:35:626  INFO - Starting QuartzApplication on GGSXC42 with PID 31440 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-16 10:20:35:631 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-16 10:20:35:632  INFO - No active profile set, falling back to default profiles: default
+18-octubre-16 10:20:37:838  INFO - Started QuartzApplication in 2.417 seconds (JVM running for 3.067)
+18-octubre-16 10:20:37:941  INFO - Conexion a Remedy - Intento 1
+18-octubre-16 10:20:47:350 ERROR - Error IO RMDSELECT: Read timed out
+18-octubre-16 10:20:47:361  INFO - Conexion a Remedy - Intento 2
+18-octubre-16 10:20:56:561 ERROR - Error IO RMDSELECT: Read timed out
+18-octubre-16 10:20:56:570  INFO - Conexion a Remedy - Intento 3
+18-octubre-16 10:21:05:770 ERROR - Error IO RMDSELECT: Read timed out
+18-octubre-16 10:36:09:528  INFO - Starting QuartzApplication on GGSXC42 with PID 26784 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-16 10:36:09:534 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-16 10:36:09:534  INFO - No active profile set, falling back to default profiles: default
+18-octubre-16 10:36:14:030  INFO - Started QuartzApplication in 4.73 seconds (JVM running for 5.44)
+18-octubre-16 10:37:18:162  INFO - Conexion a Remedy - Intento 1
+18-octubre-16 10:40:11:525  INFO - Starting QuartzApplication on GGSXC42 with PID 33256 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-16 10:40:11:527 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-16 10:40:11:528  INFO - No active profile set, falling back to default profiles: default
+18-octubre-16 10:40:13:667  INFO - Started QuartzApplication in 2.337 seconds (JVM running for 2.969)
+18-octubre-16 10:40:13:764  INFO - Conexion a Remedy - Intento 1
+18-octubre-16 10:40:15:984  INFO - Consulta a Remedy trajo 2 incidentes
+18-octubre-16 10:42:23:425  INFO - Starting QuartzApplication on GGSXC42 with PID 25904 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-16 10:42:23:428 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-16 10:42:23:429  INFO - No active profile set, falling back to default profiles: default
+18-octubre-16 10:42:25:590  INFO - Started QuartzApplication in 2.363 seconds (JVM running for 2.992)
+18-octubre-16 10:42:25:683  INFO - Conexion a Remedy - Intento 1
+18-octubre-16 10:42:27:955  INFO - Consulta a Remedy trajo 2 incidentes
+18-octubre-16 10:42:45:154  INFO - Starting QuartzApplication on GGSXC42 with PID 25732 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-16 10:42:45:164 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-16 10:42:45:164  INFO - No active profile set, falling back to default profiles: default
+18-octubre-16 10:42:49:668  INFO - Started QuartzApplication in 4.755 seconds (JVM running for 5.485)
+18-octubre-16 10:42:54:911  INFO - Conexion a Remedy - Intento 1
+18-octubre-16 10:42:56:950  INFO - Consulta a Remedy trajo 2 incidentes
+18-octubre-16 10:44:11:853  INFO - Starting QuartzApplication on GGSXC42 with PID 15660 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-16 10:44:11:856 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-16 10:44:11:856  INFO - No active profile set, falling back to default profiles: default
+18-octubre-16 10:44:13:954  INFO - Started QuartzApplication in 2.294 seconds (JVM running for 2.912)
+18-octubre-16 10:44:14:046  INFO - Conexion a Remedy - Intento 1
+18-octubre-16 10:44:17:435  INFO - Consulta a Remedy trajo 2 incidentes
+18-octubre-16 10:44:30:702  INFO - Starting QuartzApplication on GGSXC42 with PID 6088 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-16 10:44:30:707 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-16 10:44:30:707  INFO - No active profile set, falling back to default profiles: default
+18-octubre-16 10:44:35:126  INFO - Started QuartzApplication in 4.648 seconds (JVM running for 5.326)
+18-octubre-16 10:44:39:519  INFO - Conexion a Remedy - Intento 1
+18-octubre-16 10:44:41:664  INFO - Consulta a Remedy trajo 2 incidentes
+18-octubre-16 10:46:00:828  INFO - Starting QuartzApplication on GGSXC42 with PID 25316 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-16 10:46:00:831 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-16 10:46:00:832  INFO - No active profile set, falling back to default profiles: default
+18-octubre-16 10:46:02:938  INFO - Started QuartzApplication in 2.303 seconds (JVM running for 2.918)
+18-octubre-16 10:46:03:032  INFO - Conexion a Remedy - Intento 1
+18-octubre-16 10:46:05:210  INFO - Consulta a Remedy trajo 2 incidentes
+18-octubre-16 10:46:26:061  INFO - Starting QuartzApplication on GGSXC42 with PID 32080 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-16 10:46:26:066 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-16 10:46:26:067  INFO - No active profile set, falling back to default profiles: default
+18-octubre-16 10:46:30:554  INFO - Started QuartzApplication in 4.719 seconds (JVM running for 5.416)
+18-octubre-16 10:46:40:737  INFO - Conexion a Remedy - Intento 1
+18-octubre-16 10:46:42:918  INFO - Consulta a Remedy trajo 2 incidentes
+18-octubre-16 10:50:34:051  INFO - Starting QuartzApplication on GGSXC42 with PID 6108 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-16 10:50:34:055 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-16 10:50:34:056  INFO - No active profile set, falling back to default profiles: default
+18-octubre-16 10:50:38:533  INFO - Started QuartzApplication in 4.718 seconds (JVM running for 5.414)
+18-octubre-16 10:50:40:514  INFO - Conexion a Remedy - Intento 1
+18-octubre-16 10:50:42:664  INFO - Consulta a Remedy trajo 2 incidentes
+18-octubre-16 10:50:46:926  INFO - No hubo matcheo
+18-octubre-16 10:50:49:282  INFO - No hubo matcheo
+18-octubre-16 10:51:18:634  INFO - Starting QuartzApplication on GGSXC42 with PID 20828 (C:\ws\Remedy8\dev\cierreTickler\target\classes started by cti7520 in C:\ws\Remedy8\dev\cierreTickler)
+18-octubre-16 10:51:18:637 DEBUG - Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+18-octubre-16 10:51:18:637  INFO - No active profile set, falling back to default profiles: default
+18-octubre-16 10:51:20:759  INFO - Started QuartzApplication in 2.318 seconds (JVM running for 2.938)
+18-octubre-16 10:51:20:854  INFO - Conexion a Remedy - Intento 1
+18-octubre-16 10:51:23:087  INFO - Consulta a Remedy trajo 2 incidentes
+18-octubre-16 10:51:23:191  INFO - No hubo matcheo PAR
+18-octubre-16 10:51:23:209  INFO - No hubo matcheo INC000008730906

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+
+ 	<!-- <include resource="org/springframework/boot/logging/logback/defaults.xml" />-->
+    
+    <!-- Keep Spring Boot console appender as is 
+	<include resource="org/springframework/boot/logging/logback/console-appender.xml" />-->
+
+	<appender name="FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
+			<encoder>
+      		<pattern>%msg%n</pattern>
+    	</encoder>
+		<!-- Current log file doesn't have date suffix (see http://logback.qos.ch/manual/appenders.html#tbrpFileNamePattern) -->
+		<!-- <file>${logging.path}/${spring.application.name}.log</file> -->
+		
+		<file>${app.home}/logs/remedyCron.log</file>
+		
+		<rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+			<!-- Append date suffix when rotate log files -->
+		
+			<fileNamePattern>${app.home}/logs/remedyCron-%d{yyyy-MM-dd}.%i.log</fileNamePattern>
+			<!-- Purge old log files (happend on log rotate event) -->
+			<maxFileSize>3000KB</maxFileSize>  
+			<maxHistory>10</maxHistory>
+			<!-- Perform purge at app start (for apps with short life cycle which don't trigger log rotation) -->
+		
+			<!-- <cleanHistoryOnStart>false</cleanHistoryOnStart> -->
+		
+			<totalSizeCap>10MB</totalSizeCap>
+		</rollingPolicy>	
+	</appender>
+    <appender name="stdout" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>%d{yy-MMMM-dd HH:mm:ss:SSS} %5p - %m%n</pattern>
+        </encoder>
+    </appender>
+    
+    <logger name="com.claro" additivity="true" level="">
+	    <appender-ref ref="stdout"/> 
+	    <appender-ref ref="FILE"/>
+    </logger>
+
+</configuration>
